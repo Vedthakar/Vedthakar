@@ -1,4 +1,4 @@
-# Hi, I'm Ved Thakar
+# Hi, I'm Ved Thakar 😁
 
 I'm a second-year student at the University of Toronto studying Computer Science and Economics, and I'm currently working as a Backend Developer intern at Geotab.
 
